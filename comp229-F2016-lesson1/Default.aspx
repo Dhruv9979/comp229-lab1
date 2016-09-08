@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 <h1><asp:Label ID="HelloLabel" runat="server" Text="Hello world!"></asp:Label></h1>
- <p>This is my first web App using ASP.net Web foroms.</p>  
+ <p>This is my first web App using ASP.NET Web foroms.</p>  
 
 </asp:Content>
